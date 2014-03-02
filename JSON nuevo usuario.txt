@@ -4,3 +4,5 @@
   "email":      "juanmalp1992@gmail.com",
   "gender":    "Masculino"
 }
+
+//JSON para crear usuario
